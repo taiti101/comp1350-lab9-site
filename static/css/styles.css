@@ -2,7 +2,7 @@
    Part 2: change --accent, push to GitHub, and watch the new colour go live
    through your CloudFront distribution. */
 :root {
-  --accent: #0d6efd;
+  --accent: #d63384;
 }
 
 .hero {
