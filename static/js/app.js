@@ -1,7 +1,7 @@
 // Lab 9 starter script.
 // Part 2: change ASSET_VERSION, push to GitHub, and watch the new value go live
 // through your CloudFront distribution.
-const ASSET_VERSION = "v1";
+const ASSET_VERSION = "v2";
 
 function ms(value) {
   return Math.round(value) + " ms";
